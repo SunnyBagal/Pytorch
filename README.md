@@ -39,3 +39,16 @@ pip install -r requirements.txt
 | 2 | [`pytorch_basics/`](pytorch_basics/) | Tensors, operations, GPU, autograd, `nn.Module`, losses, optimizers, training loops, datasets, saving models |
 
 Take your time with Part 1 — PyTorch is "just Python", so strong Python makes PyTorch easy.
+
+Quick reference: [`pytorch_basics/CHEATSHEET.md`](pytorch_basics/CHEATSHEET.md)
+
+## My progress
+
+Tick these off as you go (edit this file and change `[ ]` to `[x]`):
+
+- [ ] Python basics 01–06 (types, strings, collections, conditionals)
+- [ ] Python basics 07–12 (loops, functions, classes, inheritance)
+- [ ] Python basics 13–18 (errors, modules, files, generators, decorators, NumPy)
+- [ ] PyTorch 01–08 (tensors, operations, shapes, devices)
+- [ ] PyTorch 09–13 (autograd, nn.Module, losses, optimizers)
+- [ ] PyTorch 14–17 (full projects, DataLoader, saving models)
