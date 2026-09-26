@@ -1,0 +1,17 @@
+# Python virtual environment (created with: python3 -m venv .venv)
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Files created while running the lessons
+*.pt
+*.pth
+data/
+notes_demo.txt
+
+# macOS / editors
+.DS_Store
+.vscode/
+.idea/
